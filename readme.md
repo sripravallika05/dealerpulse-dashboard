@@ -88,5 +88,4 @@ http://localhost:3000
 ---
 
 ## 👨‍💻 Author
-
-Your Name
+pravallika malla
